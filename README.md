@@ -40,49 +40,43 @@ Subtopics: Descriptive/Inferential Statistics, Data Cleaning, Data Visualization
 
 Software: Excel, R, Python (Pandas, NumPy, Matplotlib), Tableau.
 
-# 7. System Integration and Architecture
-Definition: Designing and integrating multiple systems and ensuring they work as a cohesive unit.
-
-Subtopics: Integration Patterns, Middleware, Enterprise Service Bus (ESB), Microservices, Cloud Integration.
-
-Software: MuleSoft, Microsoft BizTalk, Apache Camel, Dell Boomi.
-# 8. System Analysis and Design
+# 7. System Analysis and Design
 Definition: The study of systems to determine requirements and create effective designs for future solutions.
 
 Subtopics: Requirements Gathering, Process Modeling, UML Diagrams, Prototyping, Testing.
 
 Software: Microsoft Visio, Lucidchart, IBM Rational Rose, Visual Paradigm.
-# 9. Advanced System Integration and Architecture
+# 8. Advanced System Integration and Architecture
 Definition: Advanced methods for designing and integrating complex systems across multiple platforms.
 
 Subtopics: Cloud Architecture, High Availability Systems, Scalability, Enterprise Architecture Frameworks.
 
 Software: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, Kubernetes.
-# 10. Fundamentals of Business Analytics
+# 9. Fundamentals of Business Analytics
 Definition: Using data to drive business decisions and optimize processes.
 
 Subtopics: KPI Analysis, Predictive Analytics, Market Basket Analysis, Business Intelligence.
 
 Software: Power BI, Tableau, SAP BusinessObjects, SAS.
-# 11. Fundamentals of Analytics Modeling
+# 10. Fundamentals of Analytics Modeling
 Definition: Building models that help in analyzing data trends and making predictions.
 
 Subtopics: Regression Analysis, Classification, Clustering, Time-Series Forecasting, Model Evaluation.
 
 Software: R, Python (scikit-learn, TensorFlow), SAS, SPSS.
-# 12. Fundamentals of Enterprise Data Management
+# 11. Fundamentals of Enterprise Data Management
 Definition: Managing enterprise-level data to support business operations and compliance.
 
 Subtopics: Data Governance, Data Stewardship, Data Architecture, Metadata Management.
 
 Software: Informatica, IBM InfoSphere, Talend, SAP Data Services.
-# 13. Analytics Technique & Tools
+# 12. Analytics Technique & Tools
 Definition: Methods and tools for analyzing data across various applications.
 
 Subtopics: Data Mining, Machine Learning, Neural Networks, Statistical Analysis.
 
 Software: Python, SAS, KNIME, RapidMiner, Hadoop.
-# 14. Analytics Application
+# 13. Analytics Application
 Definition: Applying analytics techniques in real-world business contexts.
 
 Subtopics: Fraud Detection, Customer Segmentation, Sentiment Analysis, Demand Forecasting.
